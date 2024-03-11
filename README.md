@@ -9,3 +9,4 @@ Repository for assignment 3: generating and evaluating text from pretrained LMs.
 | Task1 | Creating the decoding algorithm | Jaeeun Lee | 
 | Task2 | Applying decoding algorithm on XSUM dataset with the pretrained T5 dataset | Jiyoon Pyo |
 | Task3.1 | Evaluating generated texts with content-overlap and model-based metrics | Yongtian Ou |
+| Task 3.2 | Human evaluation metrics justification | Dhondup Dolma |
